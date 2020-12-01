@@ -1,0 +1,76 @@
+descripcion,id,pregunta
+"
+            I've been wrestling with what should be a simple conversion of a straightforward SQL query into an SQLAlchemy expression, and I just cannot get things to line up the way I mean in the subquery. This ...
+        ",[0],Confusing SQLAlchemy conversion of simple subquery
+"
+            I am trying to create 4 react panels using Grid to showcase my skills for my Portfolio application. My text was working fine but, once I tried to implement a custom Paper Grid from material UI the ...
+        ",[1],Text will not populate in React Grid
+"
+            I should find the divisors of 100, I found but I can't get the graph! Please help me
+def d(n) :
+    i = 1
+    while i <= n :
+        if (n % i==0) :
+            print (i),
+        i = i + 1
+
+# ...
+        ",[2],I get the divisors of 100 but can't get the graph
+"
+            Here is how my doc looks like.
+{
+    ""Summary"": ""The One Way You're Putting Pressure on Your Partner Without Realizing It=20"",
+    ""Industry"" : ""Lifestyle and ...
+        ",[3],How can we get counts of each group when grouped by a certain field in elasticsearch?
+"
+            I am trying to unpack a csv for a data visualization with d3.js v5 and I am getting the following console error:
+Uncaught TypeError: data.reduce is not a function
+
+Here is the part of my code that is ...
+        ",[4],Uncaught TypeError: data.reduce is not a function - D3.js V5
+"
+            I was trying to install XMM-NEWTON SAS to my device. But unfortunately, there is an error.
+Checking whether Python is in PATH ... No.
+Error: Please add python to your PATH !
+I am using a bash shell ...
+        ",[5],Adding Python to PATH
+"
+            I am completely stuck and I need to make sure that I am correct. Any help is greatly appreciated.
+original cookie
+Based on the cookie, I need to answer these questions:
+
+Select which security features ...
+        ",[6],Auth cookie structure
+"
+            I am currently working on a few problems and I have been stuck on this one for quite some time. I cannot figure out how to get past the AttributeError.
+Within the function that is causing the problem, ...
+        ",[7],AttributeError: 'NoneType' object has no attribute 'read'?
+"
+            I have a component in which I have a Button and onClick of Button I am calling a function handleClick. and I wanted to test my Button
+MyFoo.js
+import React, { useState, useEffect } from ""react&...
+        ",[8],How to test onClick event of a button?
+"
+            When going to the IP address of my VM in GCloud, Chrome crashes its tab and doesn't open it. It just closes without any message.
+It doesn't happen with Firefox.
+I have a Nginx web server with GUnicorn ...
+        ",[9],Chrome browser tab crashes when accessing GCloud VM's IP address (but Firefox does not)
+"
+            I have a table A containing id (auto incremented) as a primary key and a table B containing id as a foreign key.While selecting data from Table B if there are duplicate ids then append a number with ...
+        ",[10],Mysql select statement with duplicate id and set
+"
+            I am creating a Workflow for time-off requests using this How-To Guide:  https://docs.google.com/document/d/1y6x90S_q_cwdl4LGVDDSqMyuikx1zmPFyVQfSlYsKLk/edit.
+When a manager approves the time-off ...
+        ",[11],"TypeError: Cannot call method “getName” of null. (line 344, file “Code”, project “Request Time Off Workflow”)"
+"
+            In phaser 3 I use overlap to check for collision. My code follows:
+//bulletA is an array(one of the 2 arrays where collison is being checked) it contains all my bullet sprites
+//enemy1 is an array ...
+        ",[12],Phaser 3 array collison
+"
+            I need to get the exact number of rows that I am seeing in my reports from Google Analytics.  I am using the Reporting API V4.
+I am querying for 1 day of a goal completion and my results are not ...
+        ",[13],Google Analytics API - Rows returned are different than the total returned
+"
+            I am working with tableau, and I notice that tableau is able to automatically join tables. Do you think that SQL will become obsolete as the focus turns to making data analytics easier to do?
+        ",[14],Will SQL be obsolete due to better UI's
