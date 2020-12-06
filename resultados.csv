@@ -74,3 +74,247 @@ I am querying for 1 day of a goal completion and my results are not ...
 "
             I am working with tableau, and I notice that tableau is able to automatically join tables. Do you think that SQL will become obsolete as the focus turns to making data analytics easier to do?
         ",[14],Will SQL be obsolete due to better UI's
+descripcion,id,pregunta
+"
+            I subscribe to Google Colab Pro. I've been using it to train Deep Learning models with a GPU.
+Recently, I started a training run at 11:00pm Pacific, but then I found it stopped at 5:00m the next day. ...
+        ",[0],"Google Colab Pro execution stops, no explanation. How to diagnose?"
+"
+            const prev = performance.now();
+requestAnimationFrame(now => console.log(now - prev));
+
+
+
+Why now is always less than prev (at least in Chrome)?
+        ",[1],Strange time value in requestAnimationFrame
+"
+            I have an object type declared as:
+create or replace TYPE T_PEC AS OBJECT(
+num_doss VARCHAR2(10 char),
+PRESTATIONS LIST_PRESTATIONS
+);
+
+where PRESTATIONS is
+create or replace TYPE T_PRESTATION AS ...
+        ",[2],How to display nested objects in plsql?
+"
+            I want to change the screen using a function that is in another class. I can do this in the kv file but not in the python file. Here is a part of the code
+main.py
+self.dialog = MDDialog(
+              ...
+        ",[3],I am not able to change the screen using kivy in python
+"
+            Hi i'm looking for a way to read the list one time to output 3 different lists.
+For ex:
+Class Item 
+{ 
+   public int key {get; set;}
+   public string name {get; set;}
+   public bool CanTraid {get; set;...
+        ",[4],outputting multiple lists in single Query (LINQ) C#
+"
+            According to what I read from here, Docker support is deprecated and removed in future version of kubernetes. Do you guys know any alternatives for Docker?
+        ",[5],Docker Alernatives For Kubernetes
+"
+            Type mismatch between training and new data for variable 'ID'. Did you use factors with numeric labels for training, and numeric values for new data?Type mismatch between training and new data for ...
+        ",[6],Why am I getting a mismatch error for my Naive Bayes code?
+"
+            i'm building a e-commmerce website and i'm using bumbummen99/LaravelShoppingcart package for my shopping card. everything works fine except one thing. i cant increase or reduce quantity of my ...
+        ",[7],Quantity of my products doesn't increase or reduce
+"
+            I'm getting the block page when I try to get fiverr.com page contents. I try all the curl code from the web but unable to fix this issue. Is there any way so we can fix it?
+$ch = curl_init();
+...
+        ",[8],Unable to access Fiverr website page contents using CURL PHP
+"
+            enter image description here
+(a)Evaluate the outputs F1 and F2 as a function of the three inputs.
+(b) List the truth table with 8 binary combinations of the three
+input variables.
+(c) Plot the output ...
+        ",[9],Consider the combinational circuit shown in Fig below
+"
+            Pg-promise is Not returning anything for 60s and gets timed out while running server setup with express-generator.
+There are no error messages.
+All the routes without db.any or similar query, works ...
+        ",[10],"Pg Promise timeout while using express generator format, but works fine with basic express sever"
+"
+            I'm using pythonanywhere to receive texts via Twilio, and everytime I send a text back (POST request) I'm getting a 502 Bad Gateway Error. See below for my code.
+import requests
+import time
+import ...
+        ",[11],Getting 502 Bad Gateway Error on POST via ngrok
+"
+            I would like to get the column at which the text would be wrapped in the ""Automatic"" word wrap width. In other words, what I need is the width of the text window in columns. I've tried the ...
+        ",[12],How to get the (automatic) wrapping column ↔ the width of the view in columns?
+"
+            I started having a problem that everytime i wanted to insert smthing on a table or selecting that table it would show me There is already an object name' in the database
+After I searched I found out ...
+        ",[13],"How can I not use IF OBJECT_ID(', 'U') IS NOT NULL everytime i want to select or insert into"
+"
+            I have tried exporting my C++ formatting settings into a .editorconfig but with the 2 methods I have attempted, the config is almost completely blank except for a brief comment header and the language ...
+        ",[14],Visual Studio export .editorconfig has no content for c++
+descripcion,id,pregunta
+"
+            I'm writing a Python program that has a GUI using PyQt5 and that also calls a MATLAB file using os.system(). However, one of the functions I have decides to not execute any PyQt-related statement ...
+        ",[0],Python function runs only some statements before 'os.system()' is called
+"
+            Let's say I have the following mongodb collection with the following structure:
+mongodocument:
+_id: xxx
+A: ""CLEYMAR_COMPANY""
+category: Object
+ENGINEER: Object
+ARQUITECT: Object
+Professions ...
+        ",[1],Is there a way to return a whole different data structure by using mongodb aggregations and projections?
+"
+            When I run nodejs in window using npm run or pm2, sometimes it doens't recieve any request or doesn't make any response from client. ( I usually run nodejs with window cmd console)
+To make it respond, ...
+        ",[2],Nodejs doesn't recieve request
+"
+            I wrote this code:
+#! /root/anaconda3/bin/python3.8
+
+import sys
+
+i = 0
+options = """"
+wordsFind = """"
+while True:
+    i += 1
+    try:        
+        if sys.argv[i].startswith(""-&...
+        ",[3],I'm having trouble using sys.argv to get arguments from the user. My python code is not working as I intended
+"
+            I created this map of the Middle East in folium. I am very happy with how it looks: https://javierparada.github.io
+The only problem is that one of the background layers is blocking the HeatMap. I don'...
+        ",[4],Order Layers behind HeatMapWithTime in Folium
+"
+            Given a array in list
+import numpy as np
+n_pair = 5
+np.random.seed ( 0 )
+nsteps = 4
+nmethod = 2
+nbands = 3
+t_band=0
+t_method=0
+t_step=0
+t_sbj=0
+t_gtmethod=1
+all_sub = [[np.random.rand ( nmethod, ...
+        ",[5],How to one liner access numpy array in a list?
+"
+            Good day. I'm looking for the number of times or instances each PARTY had the highest result or share in a constituency. I am not exactly sure how to do the COUNT. My goal is to get a result set that ...
+        ",[6],Count or Find number of times users had highest value based on sum of column
+"
+            Some Context
+I have a page where I need to show a paginated list of posts. Before now, my controller was:
+$posts = Post::whereNotNull('published_at')->paginate(10);
+
+return view('index', compact('...
+        ",[7],Laravel 7: How do I return Eloqent Models instead of an array when using LengthAwarePaginator?
+"
+            I'm trying to consume an API using RestTemplate but it will simply not deserialize the json response into my pojo
+Here is the json payload I'm trying to deserialize:
+""Response"": {
+        &...
+        ",[8],Spring Boot (2.3.6.RELEASE) Deserialization Fails when using RestTemplate and Unwrap Root
+"
+            I am trying to only count a record one time in a 90 day period. The 90 day period is different for every record, based on the last record that was counted.
+In this example, my table has the columns &...
+        ",[9],SQL Keep Only Records within 90 Days Dynamic Dates
+"
+            Okay so I'm in a trouble.. I have two sql tables : 'startup' and 'offer' in which startupID is a foreign key that references startup.idstartup, the problem is that I have duplicate values in startup (...
+        ",[10],update foreign key in mysql database
+"
+            multi-message-error.ts:
+class MultiMessageError extends Error {
+  errors: string[] = []
+  constructor(errors) {
+    super(""MultiMessageError Message"");
+    this.name = ""...
+        ",[11],Cannot create instance of custom error object in JavaScript
+"
+            I am quite new to working with spatial dataframes, and have what I thought was a relatively simple task: take a dataframe of 6 points, with x and y columns representing the lat/long positions of those ...
+        ",[12],Plotting lat/long coordinates into a Formal Class Raster Layer (factor) map with aea projection in R?
+"
+            my skills in java are weak... I just don't know add the response of this java request to my iframe url...
+I want to add to my url the ticket.email
+Anyone could point me in the right direction please?
+&...
+        ",[13],How to send java response in ifram url?
+"
+            I have quite a few methods that requires opening some file (each method has different), doing some stuff, closing it. I am trying to figure this out by decorating methods, but getting stuck a bit.
+...
+        ",[14],Modifying class attribute by calling class method from inside decorator
+descripcion,id,pregunta
+"
+            The standalone Mongoose webserver allows me to set Content-type headers in the ""extra_mime_types"" textbox with .svg=image/xml+svg,.svgz=image/xml+svg but I haven't been able to figure out ...
+        ",[0],How do I get Mongoose to serve .svgz files with Content-encoding: gzip
+"
+            I am a newbie in R. I want every number in the first row of A times the first member of vector B, every number in the second row times the second member of vector B, and every number in the third-row ...
+        ",[1],How do you operate on matrices in R
+"
+            After running the abp generate proxy command i get this error ""couldn't determinate version of @abp/ng.schematics""
+i have abp version 4.0 and  ng.schematics package version 3.2.2
+Thank You
+        ",[2],ABPFRAMWORK couldn't determinate version of @abp/ng.schematics
+"
+            I am doing a project in C# and have errors I can't figure out. I appreciate any help I can get! I need to fix the errors, I have tried to do it in different ways and in diffrent places and it isn't ...
+        ",[3],C# Project errors
+"
+            I am trying to save datecriteriamet date field to the backend and below is my function:
+public function render(ResultRow $values) {
+    $id = $values->id;
+    $program = Program::load($id);
+    $...
+        ",[4],"TypeError: DateTime::__construct() expects parameter 1 to be string, array given in DateTime->__construct() - Drupal 8"
+"
+            I have seen several examples here, but none answered this question with clarity and precision. How would I convert this nested dictionary:
+d = {0: {0: 0, 1: {1: {0: 0, 1: 1}}}}
+
+to a list of lists so ...
+        ",[5],Convert nested Python dictionary to a list of lists
+"
+            I am trying to get CatAPI to work. My code is compiling and running, and the Dog API (which I successfully implemented) works just fine. However, I get this error whenever I use the button for the ...
+        ",[6],How do I get CatAPI to work in simple Android App
+"
+            i want to join database with laravel 8, i want that table blog.user will display form users.name
+code
+        $data = blog::where([
+                            ['id', '=', $id],
+                       ...
+        ",[7],SQLSTATE[23000]: Integrity constraint violation: 1052 Column 'id' in where clause is ambiguous
+"
+            I am making a project that its function is recognize faces with opencv and save face capture together with basic informations person(for example: name, lastname) in database.
+I am trying that my ...
+        ",[8],"How to recognize a face and have it say the person's name using java, opencv and mysql?"
+"
+            I'm writing a Space Invaders emulator as a learning project and I have encountered an issue when trying to test one of the op codes I implemented:
+        ",[9],I'm writing a Space Invaders emulator as a learning project
+"
+            I am integrating AEM with Okta. Followed this document. I am able to integrate successfully. When I hit we-retail/us/en/men.html as authentication required browser takes me to Okta login page and ...
+        ",[10],How to SAML authenticate AEM endpoints using Okta?
+"
+            I couldn't think of a better way to word the title of this question, so I can change that if recommended.
+I'm writing a Space Invaders emulator as a learning project and I have encountered an issue ...
+        ",[11],How do I maintain the value of members referred to by a pointer in C#?
+"
+            What I am trying to do right now is load a IonModal when a onClick event is triggered (const [showBrowseModal, setShowBrowseModal] = useState(false); & the handler to toggle true / cancel button = ...
+        ",[12],Undefined useState when implementing onClick for dynamic Ionic components with reactJs
+"
+            I have successfully increased the Label in the TextField of my React app.
+My problem is that when its on shrink, it just overlaps some line on its right.
+
+Click Here
+import React from ""react""...
+        ",[13],Problem in Increasing Label in Material-Ui in React
+"
+            So I have this written:
+Select AVG(rating)
+,college
+FROM nbaplayers
+WHERE College IN (""Texas"", ""Kentucky"", ""Duke"", ""Kansas"",""UCLA"", ""North ...
+        ",[14],Want to find average nba 2k rating by college. Only one college appears
