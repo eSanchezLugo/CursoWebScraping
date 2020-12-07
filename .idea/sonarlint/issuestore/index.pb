@@ -17,3 +17,7 @@ L
 :
 
 .gitignore,a\5\a5cc2925ca8258af241be7e5b0381edf30266302
+L
+nivel2/nivel2_tripadvisor.py,3\7\37b53cff0aa8f6cee3e518be248c30754ee08903
+9
+	video.csv,6\d\6d390574a4134b68cae28aa438680c46e0ba59a1
