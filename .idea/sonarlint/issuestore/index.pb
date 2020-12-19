@@ -21,3 +21,7 @@ L
 nivel2/nivel2_tripadvisor.py,3\7\37b53cff0aa8f6cee3e518be248c30754ee08903
 9
 	video.csv,6\d\6d390574a4134b68cae28aa438680c46e0ba59a1
+M
+nivel2/nivel2_mercadoLibre.py,e\a\eacfc30a27944ced3604db8a2465e260b92acf2d
+K
+nivel2/nivel2_extraccion.py,6\8\682f5f75220d50484d096bce851af00a51ade34e
