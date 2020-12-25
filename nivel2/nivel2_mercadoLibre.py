@@ -56,4 +56,3 @@ class MercadoLibreCrawler(CrawlSpider):
 
         yield item.load_item()
 
-        # scrapy runspider nivel2/nivel2_mercadoLibre.py -o mercadoLibre.csv -t csv

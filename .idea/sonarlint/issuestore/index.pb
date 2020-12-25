@@ -25,3 +25,9 @@ M
 nivel2/nivel2_mercadoLibre.py,e\a\eacfc30a27944ced3604db8a2465e260b92acf2d
 K
 nivel2/nivel2_extraccion.py,6\8\682f5f75220d50484d096bce851af00a51ade34e
+@
+mercadoLibre.csv,e\4\e4a8dd6a3e4b4edeb3da34090cf7f120e6d20fd5
+D
+nivel2/nivel2_ign.py,9\d\9d58bfbf0ff816a272df18d75e616391b5d07a03
+8
+ign.json,7\4\7416e5ce6fa7c53bf10fd0c24750b19b6872a918
