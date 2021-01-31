@@ -3,9 +3,6 @@
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
 >
 resultados.csv,3\5\350b8882238c47033d308485157576df225e3d87
-:
-
-video.json,2\d\2d01fff4014825f54a24f4205ac1549ead66869f
 J
 nivel1/nivel1_wikipedia.py,2\1\217d46b113dedf910504378b48359545adebbe54
 U
@@ -31,3 +28,5 @@ D
 nivel2/nivel2_ign.py,9\d\9d58bfbf0ff816a272df18d75e616391b5d07a03
 8
 ign.json,7\4\7416e5ce6fa7c53bf10fd0c24750b19b6872a918
+M
+nivel2/nivel2_tripadvisor2.py,0\4\04451d306595d42eb0f0466ed1ae07ebb31043a7
